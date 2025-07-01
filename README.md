@@ -2,7 +2,7 @@
 
 This repository contains a taxonomy of Multi-Object Tracking (MOT) methods, designed to provide an overview of recent MOT literature. The taxonomy was created as part of my thesis work and emphasizes our contribution, **[CAMELTrack](https://github.com/TrackingLaboratory/CAMELTrack)**.  
 
-The **PDF version includes clickable links** to the corresponding repositories or papers for the methods.  
+The [**PDF version**](mot_taxonomy_vladimir_somers.pdf) **includes clickable links** to the corresponding repositories or papers for the methods.  
 
 The diagram was made using Lucidchart and is available in both JPEG and PDF formats:  
 
